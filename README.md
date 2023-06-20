@@ -4,6 +4,10 @@ This Github is made as a part of a minor project at the HAN university of applie
 it shows the implmentation of a TTCAN system wich is developed to showcase a proof of concept of a multi articulated vehicle reverse assist.
 Its Based on the han coder
 
+# Software explanation
+
+explenation and elebaration on the software can be found in the documantation folder
+
 
 # HANcoder
 HANcoder STM32 Target is part of the open model based development (openMBD)
